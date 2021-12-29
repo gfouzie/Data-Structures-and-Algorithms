@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a1/doubly-linked-list.h
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a1/sequential-list.h
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a1/test.cpp
+iostream
+-
+sequential-list.h
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a1/sequential-list.h
+doubly-linked-list.h
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a1/doubly-linked-list.h
+

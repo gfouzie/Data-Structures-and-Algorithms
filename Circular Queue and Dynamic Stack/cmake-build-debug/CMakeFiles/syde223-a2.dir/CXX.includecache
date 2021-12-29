@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregfouzie/CLionProjects/SYDE223-A2/circular-queue.cpp
+circular-queue.h
+/Users/gregfouzie/CLionProjects/SYDE223-A2/circular-queue.h
+iostream
+-
+
+/Users/gregfouzie/CLionProjects/SYDE223-A2/circular-queue.h
+
+/Users/gregfouzie/CLionProjects/SYDE223-A2/dynamic-stack.h
+
+/Users/gregfouzie/CLionProjects/SYDE223-A2/test.cpp
+iostream
+-
+dynamic-stack.h
+/Users/gregfouzie/CLionProjects/SYDE223-A2/dynamic-stack.h
+

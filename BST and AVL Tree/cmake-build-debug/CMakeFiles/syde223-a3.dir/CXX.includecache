@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/avl-tree.cpp
+avl-tree.h
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/avl-tree.h
+iostream
+-
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/avl-tree.h
+binary-search-tree.h
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/binary-search-tree.h
+string
+-
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/binary-search-tree.cpp
+binary-search-tree.h
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/binary-search-tree.h
+iostream
+-
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/binary-search-tree.h
+
+/Users/gregfouzie/CLionProjects/gfouzie/syde223-a3/test.cpp
+iostream
+-
+

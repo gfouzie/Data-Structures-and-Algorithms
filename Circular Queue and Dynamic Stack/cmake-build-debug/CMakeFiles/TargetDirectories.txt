@@ -1,0 +1,3 @@
+/Users/gregfouzie/CLionProjects/SYDE223-A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gregfouzie/CLionProjects/SYDE223-A2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gregfouzie/CLionProjects/SYDE223-A2/cmake-build-debug/CMakeFiles/syde223-a2.dir
