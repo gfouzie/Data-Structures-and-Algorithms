@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Implementations of the basics of data structures and algorithms
+Implementations of the fundamentals of data structures and algorithms
